@@ -1,3 +1,17 @@
 body {
-   background: url("../images/simpback.png");
+   background: url("../images/simpsons2.jpg");
+}
+h1 {
+   font-family: 'Indie Flower', cursive;
+   font-size: 60px;
+   font-weight: bold;
+   text-align: center;
+   color: red
+}
+h3 {
+   font-family: 'Indie Flower', cursive;
+   font-size: 35px;
+   font-weight: bold;
+   text-align: center;
+   color: red
 }
